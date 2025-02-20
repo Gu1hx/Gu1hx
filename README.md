@@ -85,7 +85,7 @@ Me chamo Guilherme de Brito,  sou natural do Piaui.
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" 
 />
 
 <br/>
